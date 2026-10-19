@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "optimizo",
+  "description": "Kit de Claude del equipo de Optimizo.",
+  "owner": { "name": "Optimizo" },
+  "plugins": [
+    {
+      "name": "paid-media",
+      "description": "Anuncios, campañas y paid media con el cerebro de Paid Media en Medula: ideas, fichas, guiones, textos 5-5-5, informes y reglas aprendidas.",
+      "source": "./plugins/paid-media",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "paid-media": {
+    "type": "http",
+    "url": "https://medula.condorai.cl/mcp"
+  }
+}
